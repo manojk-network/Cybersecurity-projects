@@ -1,2 +1,3 @@
-# Cybersecurity---projects
-Cybersecurity hands-on labs
+# Cybersecurity-projects
+Projects will be added soon
+
